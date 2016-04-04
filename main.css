@@ -1,0 +1,14 @@
+/* Escribe aqui tu CSS */
+p{
+	text-align: center;
+}
+
+.caja{
+border: 12px solid yellow;
+padding: 25px;
+width:200px ;
+}
+
+#margen{
+margin: auto;
+}
